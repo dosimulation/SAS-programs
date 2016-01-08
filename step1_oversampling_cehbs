@@ -1,5 +1,5 @@
-libname in "\\Center.local\Net Access\Data Depository\Data\CalSIM\outdata\with_firms";
-libname outdata "\\Center.local\Net Access\Data Depository\Data\CalSIM\outdata\with_firms";
+libname in "with_firms";
+libname outdata "with_firms";
 /* the largest number of CalSIM employees assigned to a firm */
 %let maxcsemp = 100;
 
